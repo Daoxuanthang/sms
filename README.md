@@ -1,6 +1,6 @@
 # sms
 git clone https://github.com/Daoxuanthang/sms
 
-cd SMS
+cd sms
 
 python spamsms.py
